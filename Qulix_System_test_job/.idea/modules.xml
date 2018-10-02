@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\sergey_katsapov\Desktop\Test-Task_Qulix--master\GIFSearcher.iml" filepath="C:\Users\sergey_katsapov\Desktop\Test-Task_Qulix--master\GIFSearcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qulix_System_test_job.iml" filepath="$PROJECT_DIR$/Qulix_System_test_job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sergey_katsapov\Desktop\Test-Task_Qulix--master\app\app.iml" filepath="C:\Users\sergey_katsapov\Desktop\Test-Task_Qulix--master\app\app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GIF</string>
+    <string name="error_load_gif_item_recycler_view">Не удалось загрузить GIF</string>
+    <string name="search">Search</string>
+</resources>
